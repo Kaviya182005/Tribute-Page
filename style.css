@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(136, 245, 209);
+}
+h1{
+    text-align: center;
+    color: rgb(140, 25, 255);
+}
+.container{
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}  
+h2{
+    color: blue;
+}
+hr{
+    border: 1px solid red;
+    padding: auto;
+    margin-bottom: 20px;
+}
+
+
+
